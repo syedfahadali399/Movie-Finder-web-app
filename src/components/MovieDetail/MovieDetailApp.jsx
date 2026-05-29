@@ -1,5 +1,5 @@
 import MovieHeader from "./MovieHeader"
-import Footer from "../footer"
+import Footer from "../Footer"
 import CTA from "../CTA"
 
 function MovieSreachApp() {
