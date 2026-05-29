@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
-import Page from "./page";
 import MovieDetailApp from "./components/MovieDetail/MovieDetailApp";
+import Page from "./Page";
 
 function App() {
 
